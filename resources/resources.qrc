@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>windowsvista/clock.png</file>
+        <file>windowsvista/clock_center.png</file>
+        <file>windows/clock.png</file>
+    </qresource>
+</RCC>
